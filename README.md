@@ -4,7 +4,7 @@ Este é o site de **contato oficial** da loja de roupas **Olympik Supply**, dese
 
 ## 🔗 Acesse agora:
 
-👉 [Clique aqui para visitar a página de contato](https://SEU_USUARIO.github.io/olympiksupply-contato/)  
+👉 [Clique aqui para visitar a página de contato](https://r1ckyjpeg.github.io/olympiksupply-contato/)  
 *(Substitua `SEU_USUARIO` pela sua conta do GitHub)*
 
 ---
